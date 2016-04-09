@@ -1,0 +1,9 @@
+[submodule "brain"]
+	path = brain
+	url = https://github.com/stity/spl-brain-atlas
+[submodule "knee"]
+	path = knee
+	url = https://github.com/stity/spl-knee-atlas
+[submodule "abdominal"]
+	path = abdominal
+	url = https://github.com/stity/spl-abdominal-atlas
